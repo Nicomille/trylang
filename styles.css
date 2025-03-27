@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #afea1a;
+}
+
+.container {
+    display: flex;
+}
+
+.square {
+    width: 100px; /* Width of the square */
+    height: 100px; /* Height of the square */
+    margin: 10px; /* Space between squares */
+    background-color: #db343c; /* Color of the square */
+    border: 2px solid #171616; /* Border color */
+}
